@@ -1,4 +1,4 @@
-# Cognition and Computation project
+# Analysis of effectiveness of denoising autoencoder vs DBN
 This project aims to compare DBN with autoencoders when dealing with noisy data (in this case images).  
 The project is tested over the MNIST Digits dataset.
 
